@@ -10,3 +10,5 @@ This is my fourth line
 This is my fifth line
 
 This is my sixth line
+
+This is my seventh line
