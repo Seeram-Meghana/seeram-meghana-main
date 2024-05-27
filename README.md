@@ -17,4 +17,4 @@ This is my eighth line
 
 This is my ninth line
 
-This is my thenth line
+This is my tenth line
