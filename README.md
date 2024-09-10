@@ -12,7 +12,7 @@ This is my main repoistory which will about the work I am doing.
 > 1. <https://seeram-meghana.github.io/hcjjs-6-hexcolor-generator/>
 > 1. <https://seeram-meghana.github.io/hcj-js-hexrgbcolor-generator/>
 > 1. <https://seeram-meghana.github.io/hcj-js-palindrome-checker/>
-1st
+
 
 
 
